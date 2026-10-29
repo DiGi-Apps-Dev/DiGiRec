@@ -26,10 +26,17 @@ I video restano sul tuo PC, in MP4. DiGiRec fa parte di **DiGi Apps**, app gratu
 
 ## Come si vede
 
+<p align="center">
+  <img src="schermate/pannello.png" alt="Il pannello di DiGiRec, dove si sceglie cosa registrare" width="100%">
+</p>
+
 | | |
 |---|---|
 | <img src="schermate/impostazioni.png" alt="Impostazioni" width="420"> | <img src="schermate/teleprompter.png" alt="Teleprompter" width="420"> |
-| <img src="schermate/barra-registrazione.png" alt="Barra durante la registrazione" width="420"> | <img src="schermate/disegno-colori.png" alt="Colori del disegno" width="420"> |
+
+<p align="center">
+  <img src="schermate/barra-registrazione.png" alt="Barra durante la registrazione" width="420">
+</p>
 
 ## Installazione
 
